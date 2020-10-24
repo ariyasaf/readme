@@ -1,4 +1,4 @@
-# Hello, My Name Is Farkhan Ariyasa
+# Hello, My Name is Farkhan Ariyasa
 Introduction.
 I am a student at Politeknik Statistika STIS majoring statistical computing.
 I am interested in Data Science. 
